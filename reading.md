@@ -17,6 +17,7 @@
 - [x] [Design Pattern in Ruby](http://designpatternsinruby.com/)
 
 ## To Do
+- [ ] http://rails-refactoring.com/
 - [ ] practical vim
 - [ ] Realm of Racket | No Starch Press
 - [ ] clean ruby
